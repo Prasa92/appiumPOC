@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/artifacts.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/axis-jaxrpc-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/axis-saaj-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/axis-wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/com.microsoft.schemas.sharepoint-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/com.perfectomobile.eclipse_10.1.1.002.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/com.perfectomobile.eclipse.feature_10.1.1.002.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/content.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/gson-2.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/guava-22.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/http-client-9.6.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/image-comparison-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jackson-annotations-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jackson-core-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jackson-databind-2.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jackson-databind-2.8.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/java-sharepoint-2.0-BETA3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jcl-over-slf4j-1.7.22.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/json-20160810.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/logback-classic-1.1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/logback-core-1.1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/pm-webdriver-9.6.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/pm-webdriver-9.6.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/reportium-java-1.1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/sun-jai_core.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/thumbnailator-0.4.2-all.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/activation.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/client-combined-3.0.0-beta2-nodeps.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/commons-codec-1.10_2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/commons-io-2.5_2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/commons-io-2.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/http-client-6.6.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/imap.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jackson-annotations-2.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jackson-core-2.7.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/java-client-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/json-20151123.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/mail.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/pm-webdriver-6.6.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/pm-webdriver-6.6.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/selenium-api-2.48.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/selenium-remote-driver-2.48.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/selenium-support-2.48.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/rajendh/Documents/lib/smtp.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
